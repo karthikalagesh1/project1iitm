@@ -1,6 +1,6 @@
 {
   "prompt": "A hyper-realistic, cinematic photograph of a large industrial warehouse representing a data preprocessing pipeline. A conveyor belt begins with chaotic piles of mixed, dirty objects such as tangled wires, broken electronics, dusty books, and scrap materials symbolizing raw data. The objects move through a sequence of heavy mechanical stations: a washing unit spraying water to remove dirt (data cleaning), robotic arms sorting items into categories (structuring), a repair station where damaged items are fixed or discarded (handling missing or corrupted data), and a calibration chamber where objects are resized, aligned, and standardized (normalization and scaling). At the end of the line, perfectly uniform, clean, identical white blocks are neatly stacked on pallets, representing clean structured data. The environment features realistic lighting, industrial textures, metal surfaces, light fog, and workers in safety gear overseeing operations. No text, labels, symbols, or digital displays anywhere in the scene. Ultra-detailed, photorealistic, cinematic lighting, 50mm lens, shallow depth of field, high dynamic range, industrial realism, documentary photography style. --no text, labels, typography, diagrams, UI elements",
-  "model": "Adobe Firefly 3",
+  "model": "Gemini 3 Flash Image (Nano Banana 2)",
   "concept": "Data Preprocessing",
   "metaphor": "Factory assembly line transforming messy raw materials into standardized uniform blocks, mirroring cleaning, structuring, repairing, and scaling of raw data into usable datasets."
 }
