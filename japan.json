@@ -1,0 +1,8 @@
+{
+  "prompt": "A high-quality Ukiyo-e style woodblock print illustrating the concept of a 'Neural Network' through a traditional Japanese landscape. In the center, a swirling vortex of stylized colorful clouds and ribbons represents a hidden layer, connecting a rugged pine tree on the left (Input Layer) to a majestic Mount Fuji with a rising sun on the right (Output Layer). The ribbons flow like rivers and smoke, using a palette of indigo, deep green, madder red, and ochre. The background is aged washi paper texture with a decorative border and a traditional red seal signature in the bottom corner. --ar 1:1 --v 6.0",
+  "model": "Gemini 3 Flash Image (Nano Banana 2)",
+  "concept": "Neural Networks (Information Flow)",
+  "tradition_name": "Ukiyo-e (Woodblock Prints)",
+  "tradition_period": "Edo Period (1603–1867)",
+  "tradition_approach": "Targeted flat color planes, bold outlines, and 'Kumo' (stylized clouds) to mirror the complex, non-linear transformations of data. The natural elements symbolize the architecture: roots as inputs, swirls as processing, and the peak as the final prediction."
+}
